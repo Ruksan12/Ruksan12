@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ruksan+AC;Computer+Science+Student;Aspiring+.NET+Developer;Cyber+Security+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ruksan+AC;Aspiring+Software+Engineer;.NET+Developer;Cyber+Security+Enthusiast" alt="Typing Animation" />
 </h1>
 
 ---
@@ -9,7 +9,7 @@
 - 🌱 Currently learning **.NET Core**, **Entity Framework**, and **SQL**  
 - 🔭 Working on an **Inventory Management System** — billing, stock & invoice automation  
 - 👯 Open to collaborating on **C# / ASP.NET** or **open-source** projects  
-- 💬 Ask me about **C++, Java, .NET**, or **Cyber Security**  
+- 💬 Ask me about **C#, Java, .NET**, or **Cyber Security**  
 - ⚡ Passionate about creating clean, scalable, and impactful software solutions  
 
 ---
@@ -54,34 +54,15 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuksanAC&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuksanAC&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuksanAC&layout=compact&theme=radical" width="50%" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruksanac">
+  <a href="https://www.linkedin.com/in/ruksan-ac-72612a222/">
     <img src="https://img.shields.io/badge/LinkedIn-Ruksan%20AC-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:hello@ruksan.dev">
+  <a href="mailto:ruksanarrashid@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello%40ruksan.dev-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuksanAC&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
